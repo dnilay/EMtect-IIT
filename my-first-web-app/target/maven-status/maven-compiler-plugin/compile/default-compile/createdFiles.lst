@@ -1,1 +1,2 @@
-org\example\CustomerController.class
+org\example\model\League.class
+org\example\controller\LeagueController.class
